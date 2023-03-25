@@ -1,5 +1,5 @@
 ### 👋 Hi there 🚀
-I'm Janaka, a Senior Full-Stack Solution Engineer with over 18 years of experience in the IT industry, passionate about creating innovative solutions and achieving great results. I'm currently based in Zug, Switzerland and hold a Swiss Permit C for permanent residency and work authorization.
+I'm [Janaka](https://github.com/Janaka2/janaka2/blob/main/Janaka_resume.md), a Senior Full-Stack Solution Engineer with over 18 years of experience in the IT industry, passionate about creating innovative solutions and achieving great results. I'm currently based in Zug, Switzerland and hold a Swiss Permit C for permanent residency and work authorization.
 
 🔧 My expertise includes a wide range of technologies like Java, Spring, Angular, React/Redux, and DevOps tools such as Jenkins and Maven. I have a strong focus on backend and front-end development, testing and QA, and DevOps, always staying up-to-date with the latest technologies and Agile methodologies. I'm also well-versed in additional areas such as GraphQL, Machine Learning, Deep Learning, and Natural Language Processing.
 
