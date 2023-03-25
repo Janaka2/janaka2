@@ -5,7 +5,8 @@ I'm Janaka, a Senior Full-Stack Solution Engineer with over 18 years of experien
 
 🌐 I am fluent in English and Sinhalese, with working knowledge of Dutch and elementary knowledge of French. I have a strong track record of delivering excellence across various industries, including finance, telecommunications, e-commerce, and government.
 
-🤝 I'm committed to working closely with my colleagues to develop innovative solutions that drive success. Feel free to connect with me on LinkedIn, or check out my technical blog at javawithme.wordpress.com.
+🤝 I'm committed to working closely with my colleagues to develop innovative solutions that drive success. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/janakap/), or check out my technical blog at [javawithme.wordpress.com](https://javawithme.wordpress.com/drive/).
+
 
 🌟 Fun fact: I'm certified in Life Mastery, Mental Health First Aid Skills, Goal Setting, Emotional Intelligence, and IntelliJ IDEA tricks for Java developers.
 I'm a certified practitioner of Mindfulness-Based Stress Reduction, which helps me stay focused and balanced in my work and personal life.
