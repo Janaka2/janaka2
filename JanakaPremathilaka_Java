@@ -1,0 +1,38 @@
+public class JanakaPremathilaka {
+
+    public static void main(String[] args) {
+        JanakaPremathilaka janaka = new JanakaPremathilaka();
+        janaka.introduceYourself();
+    }
+
+    public void introduceYourself() {
+        String name = "Janaka Premathilaka";
+        String role = "Sr. Full-Stack Solution Engineer";
+        int experienceYears = 18;
+        String location = "Zug, Switzerland";
+        String permit = "Swiss Permit C for permanent residency and work authorization";
+        String[] languages = {"English", "Dutch", "French", "Sinhalese"};
+        String[] industries = {"finance", "telecommunications", "e-commerce", "government"};
+
+        System.out.printf("""
+                        🚀 Hello! I'm %s, a highly skilled and passionate %s with over %d years of experience in the IT industry.
+                        Currently based in %s, I hold a %s.
+                        
+                        💡 My extensive technical expertise spans Java, Spring, Angular, React/Redux, and DevOps tools like Jenkins and Maven.
+                        I excel in backend and front-end development, testing and QA, and DevOps, and I'm dedicated to staying at the forefront of emerging technologies and Agile methodologies.
+                        Moreover, my proficiency extends to areas such as GraphQL, Machine Learning, Deep Learning, and Natural Language Processing.
+                        
+                        🌍 I am a multilingual professional, fluent in %s, with working proficiency in %s and elementary knowledge of %s.
+                        Throughout my career, I have consistently delivered exceptional results across various industries, including %s.
+                        
+                        👥 I believe in the power of collaboration, and I'm committed to working closely with my colleagues to innovate and achieve extraordinary outcomes.
+                        
+                        🎓 As a lifelong learner, I hold certifications in Life Mastery, Mental Health First Aid Skills, Goal Setting, Emotional Intelligence, and IntelliJ IDEA tricks for Java developers.
+                        
+                        🏢 Currently making an impact at Credit Suisse and Cognizant as a Sr. Full-Stack Solution Engineer.
+                        
+                        💌 I welcome you to reach out to me at janaka2@gmail.com or give me a call at +41 762248445.
+                        Together, let's create innovative solutions that shape the future of technology!
+                        """, name, role, experienceYears, location, permit, String.join(", ", languages), industries[0], industries[1], industries[2], industries[3]);
+    }
+}
