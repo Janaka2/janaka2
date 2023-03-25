@@ -1,0 +1,25 @@
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
+
+public class JanakaInfo {
+    private String name;
+    private String email;
+    private List<String> topSkills;
+
+    public JanakaInfo(String name, String email, List<String> topSkills) {
+        this.name = name;
+        this.email = email;
+        this.topSkills = topSkills;
+    }
+
+    public static void main(String[] args) {
+        var janaka = new JanakaInfo("Janaka Premathilaka",
+                                     "janaka2@gmail.com",
+                                     Arrays.asList("Mindfulness Based Stress Reduction", "Teamwork", "Communication"));
+
+        System.out.println("Name: " + janaka.name);
+        System.out.println("Email: " + janaka.email);
+        System.out.println("Top Skills: " + janaka.topSkills.stream().collect(Collectors.joining(", ")));
+    }
+}
