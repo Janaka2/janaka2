@@ -1,0 +1,18 @@
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
+
+public sealed class JanakaInfo permits JanakaData {
+    public record JanakaData(String name, String email, List<String> topSkills) implements JanakaInfo {
+    }
+
+    public static void main(String[] args) {
+        var janaka = new JanakaData("Janaka Premathilaka",
+                                     "janaka2@gmail.com",
+                                     Arrays.asList("Mindfulness Based Stress Reduction", "Teamwork", "Communication"));
+
+        System.out.println("Name: " + janaka.name());
+        System.out.println("Email: " + janaka.email());
+        System.out.println("Top Skills: " + janaka.topSkills().stream().collect(Collectors.joining(", ")));
+    }
+}
