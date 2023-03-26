@@ -1,0 +1,266 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PlushCV - One Page Two Column Resume
+% LaTeX Template
+% Version 1.0 (11/28/2021)
+%
+% Author:
+% Shubham Mazumder (http://mazumder.me)
+%
+% Hacked together from:
+% https://github.com/deedydas/Deedy-Resume
+%
+% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
+%
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% TODO:
+% 1. Figure out a smoother way for the document to flow onto the next page.
+% 3. Add more icon options 
+% 4. Fix hacky left alignment on contact line
+% 5. Remove Hacky fix for awkward extra vertical space
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% CHANGELOG:
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Known Issues:
+% 1. Overflows onto second page if any column's contents are more than the vertical limit.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%Icons:
+%%Main: https://icons8.com/icons/carbon-copy
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[]{plushcv}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\namesection{Janaka}{Premathilaka}{Sr. Full-Stack Solution Developer  / Belgian with Swiss C permit. }
+{\contactline
+{\href{mailto:janaka2@gmail.com}{Janaka2@gmail.com}}
+{\href{tel:+41762248445}{+41 76 224 84 45}}
+{\href{https://javawithme.wordpress.com/}{JavaWithMe.com}}{\href{https://github.com/Janaka2}{Janaka2}}{\href{https://www.linkedin.com/in/janakap/}{Janakap}}
+}
+
+% \namesection{Firstname}{Lastname}{Full Stack Software Engineer}{\contactline{\href{https://www.mazumder.me}{mazumder.me}}{\href{https://www.github.com/sansquoi}{sansquoi}}{\href{https://www.linkedin.com/mazumders}{mazumders}}{\href{mailto:shubham.mazumder@gmail.com}{first.last@email.com}}{\href{tel:+1999999999}{9999999999}}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.70\textwidth} 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Relevant Experience}
+\runsubsection{Credit Suisse Group A.G. and Cognizant}
+\descript{| Sr. Full-Stack Solution Engineer}
+\location{May 2019 – Current | Zurich, Switzerland}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\sectionsep
+\item Collaborative Development: Teamwork in requirement analysis, solution drafting, and full-stack development.
+\item Major Projects: Created Master Data Management Tool and Data Service Layer, emphasizing adaptability and control. \item Tools & Technologies: Employed diverse tools for web applications and big data platforms.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{UBS Group A.G. and Cognizant}
+\descript{| Sr. Software Developer }
+\location{Jan 2018 – May 2019 | Zurich, Switzerland}
+\begin{tightemize}
+\sectionsep
+\item Technical Expertise: Modernizing software components using Java 8, Apache Camel, Spring, Hibernate, and developing RESTful web services and dynamic React user interfaces.
+\item Automation & Testing: Implementing Jenkins for pipeline automation, ensuring software quality through extensive testing and continuous improvement.
+\item Software Deployment and Management: Packaging software for Linux servers, migrating codebase from SVN to GIT, automating delivery pipelines, and participating in sprint planning and estimation.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{European Commission}
+\descript{| Sr. Full-Stack Java/JEE Developer }
+\location{June 2011 – December 2017 | Brussels, Belgium}
+\begin{tightemize}
+\sectionsep
+\item E-Procurement Solutions: Providing functional and technical support for e-procurement systems, developing front-end and back-end applications to meet diverse requirements.
+\item Quality Assurance & Workflows: Enhancing code quality through unit and integration testing, and implementing JBPM workflows for various business processes.
+\item Release Management Technologies: Managing software releases using Jasper & Jenkins jobs, and utilizing a wide range of technologies such as Java/J2EE, Angular, Spring/Hibernate, and Oracle.
+\end{tightemize}
+\sectionsep
+\runsubsection{Johnson & Johnson}
+\descript{| Sr. Java/JEE Developer  }
+\location{Jul 2010 – Jun 2011 | Beerse, Belgium}
+\begin{tightemize}
+\sectionsep
+\item The role involves contributing to solution design, implementing front-end and back-end solutions, writing Junit tests, conducting end-to-end testing, resolving bugs, and providing maintenance.
+\item The methodology used for this role is Scrum.
+\end{tightemize}
+\sectionsep
+\runsubsection{Nokia Siemens Networks}
+\descript{| Sr. Java/JEE Specialist Consultant }
+\location{Aug 2009 – July 2010 | Zaventem, Belgium}
+\begin{tightemize}
+\sectionsep
+\item Responsibilities include providing functional analysis support, collaborating on solution design, and designing and developing multimedia telecommunications solutions, such as closed captioning, subtitling, and PVR integration.
+\item The job requires expertise in relevant technologies and following the Spiral methodology to conduct comprehensive testing.
+\end{tightemize}
+\sectionsep
+\runsubsection{Van Genechten Packaging, Roomsnet.com, ABSI.BE, Union bank Of Colombo Ltd }
+\descript{| Sr. Full-Stack Java/JEE Developer }
+\location{May 2004 – Aug 2009 | Brussels, Belgium/ Colombo, Sri Lanka}
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %     Projects
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \section{Projects}
+
+% \runsubsection{Chess Engine}
+% \descript{| C++}
+% \location{2018}
+% \begin{tightemize}
+% \item Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper venenatis nisi at suscipit. Vestibulum vel odio in diam ultrices posuere. Cras suscipit faucibus ullamcorper.
+% \item Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper venenatis nisi at suscipit.
+% \end{tightemize}
+% \sectionsep
+
+% \runsubsection{Speech-enabled Chatbot}
+% \descript{| C\#, Microsoft Bot Framework}
+% \location{2018}
+% \begin{tightemize}
+% \item Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper venenatis nisi at suscipit. Vestibulum vel odio in diam ultrices posuere. Cras suscipit faucibus ullamcorper. 
+% \item Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper venenatis nisi at suscipit.
+% \end{tightemize}
+% \sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     AWARDS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \section{Awards} 
+% \begin{tabular}{rll}
+% 2020	     & Finalist & Lorem Ipsum\\
+% 2018	     & $2^{nd}$ & Dolor Sit Amet\\
+% 2015	     & Finalist  & Cras posuere\\
+% \\
+% \end{tabular}
+% \sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.25\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+\subsection{Programming}
+\sectionsep
+\location{Proficient:}
+Java (8-11, 17), Shell, JavaScript (ES6), TypeScript, SQL, CSS, HTML, CSS/Sass, GraphQL, Python, R, PHP, Groovy,  C++, Assembly 
+\\
+\sectionsep
+\sectionsep
+\subsection{Libraries/Frameworks}
+\sectionsep
+Spring (Boot, 5, MVC, Flux), React, Angular(7-8-14), React/Redux, GraphQL, Apache Camel, Hibernate, EJB, JBoss JBPM, Node.js
+\\
+\sectionsep
+\subsection{Tools/Platforms}
+Git, Docker, Jenkins, Kubernetes, Maven, Oracle, IntelliJ IDEA, WebLogic, JIRA, Spring Cloud, Apache Kafka, Splunk, Grafana, OpenShift, Kubectl, Helm, Nexus, PL/SQL, Scrum, H2 DB, Liquibase, Apache POI, OC
+\\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education} 
+\subsection{University of Sri J'pura}
+\descript{BSc in Computer Science, Statistics, Mathematics}
+\location{Oct 1999 - Feb 2003}
+\sectionsep
+\subsection{University of Colombo}
+\descript{BIT,Unix/Linux Fundamentals, Networks & Systems Administration}
+\location{Oct 1999 - May 2004}
+Sun Java (SCJP, SCBCD, SCEA1, SCWCD) \\
+\sectionsep
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %     REFERENCES
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{References} 
+\href{https://www.linkedin.com/in/oana-manea-05a7b57/}{\textbf{Oana Manea}, Head of Sector, IT Strategy and Finance at EC}
+\begingroup
+\setbox0=\hbox{
+\includegraphics[scale=0.1,trim={0 1cm 0cm 0cm}]{icons/main/mail.png}\hspace{0.3cm} Oana.niculescu@ec.europa.eu
+}
+\parbox{\wd0}{\box0}
+\endgroup
+\begingroup
+\setbox0=\hbox{
+\includegraphics[scale=0.1,trim={0 1.25cm -0.4cm 0cm}]{icons/main/phone.png}\hspace{0.3cm}+32 496 20 36 03
+}
+\parbox{\wd0}{\box0}\endgroup
+\\
+\sectionsep
+\href{https://www.linkedin.com/in/jasenko-ibrahimbegovic-391b80/}{\textbf{Jasenko Ibrahimbegovic}}, Lead Software Developer at CS
+\\
+\begingroup
+\setbox0=\hbox{
+\includegraphics[scale=0.1,trim={0 1cm 0cm 0cm}]{icons/main/mail.png}\hspace{0.3cm} Jasenko.ibrahimbegovic@credit-suisse.com
+}
+\parbox{\wd0}{\box0}
+\endgroup
+\begingroup
+\setbox0=\hbox{
+\includegraphics[scale=0.1,trim={0 1.25cm -0.4cm 0cm}]{icons/main/phone.png}\hspace{0.3cm}+41 79 637 08 41
+}
+\parbox{\wd0}{\box0}\endgroup
+\\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \section{Coursework}
+
+% \subsection{Graduate}
+% Graduate Algorithms \textbullet{}\\ 
+% Advanced Computer Architecture \textbullet{}\\ 
+% Operating Systems \textbullet{}\\ 
+% Artificial Intelligence \textbullet{}\\
+% Visualization For Scientific Data \\
+% \sectionsep
+
+% \subsection{Undergraduate}
+
+% Database Management Systems \textbullet{}\\
+% Object Oriented Analysis and Design \textbullet{}\\
+% Artificial Intelligence and Expert Systems \textbullet{}\\
+% Scripting Languages and Web Tech \textbullet{}\\
+% Software Engineering \\
+
+\end{minipage} 
+\end{document}  \documentclass[]{article}
+
