@@ -14,7 +14,7 @@ I'm a culinary enthusiast, always eager to experiment with new flavors and techn
 
 💼 Currently working at Credit Suisse and Cognizant as a Sr. Full-Stack Solution Engineer.
 
-📫 Feel free to reach out to me at janaka2@gmail.com , on [LinkedIn](https://www.linkedin.com/in/janakap/) or give me a call at +41 762248445. 💌 🚀
+📫 Feel free to reach out to me at janaka2@gmail.com , on [LinkedIn](https://www.linkedin.com/in/janakap/) or give me a call at +41 762248445. 💌 🚀 [Resume]()
 <!--
 **Janaka2/janaka2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,4 +28,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+where I build my CV
+https://www.overleaf.com/project/641f375b31a25f2d0509b991
 -->
