@@ -1,8 +1,6 @@
 ### 👋 Hi there 🌱
 I'm [Janaka](https://github.com/Janaka2/janaka2/blob/main/Janaka_resume.md), a Senior Java Developer with 18+ years of hands-on experience in enterprise software engineering — now actively applying my skills to modern AI-powered solutions. I work with Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Context-Aware Generation (CAG), LangChain, LlamaIndex, and have integrated these with Java/Spring Boot and automation tools like N8n and GitHub Actions. I'm currently based in Zug, Switzerland and hold a Swiss Permit C for permanent residency and work authorization.
 
-I’m a Senior Java Developer with 18+ years of hands-on experience in enterprise software engineering — now actively applying my skills to modern AI-powered solutions. I work with Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Context-Aware Generation (CAG), LangChain, LlamaIndex, and have integrated these with Java/Spring Boot and automation tools like N8n and GitHub Actions.
-
 🔧 My expertise includes a wide range of technologies like Java, Spring, Angular, React/Redux, and DevOps tools such as Jenkins and Maven. I have a strong focus on backend and front-end development, testing and QA, and DevOps, always staying up-to-date with the latest technologies and Agile methodologies. I'm also well-versed in additional areas such as GraphQL, Machine Learning, Deep Learning, and Natural Language Processing.
 
 🌐 I am fluent in English and Sinhalese, with working knowledge of Dutch and elementary knowledge of French. I have a strong track record of delivering excellence across various industries, including finance, telecommunications, e-commerce, and government.
