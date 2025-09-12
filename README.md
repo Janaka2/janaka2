@@ -16,7 +16,7 @@ I'm a culinary enthusiast, always eager to experiment with new flavors and techn
 
 📫 Feel free to reach out to me at janaka2@gmail.com , on [LinkedIn](https://www.linkedin.com/in/janakap/) or give me a call at +41 762248445. 💌 🚀 [Resume 🌱](https://github.com/Janaka2/janaka2/blob/main/Janaka%20Resume%2011.1.2023.pdf)
 
-# 💬[Say Hello to Janaka](https://www.linkedin.com/in/janakap/)
+# 💬[Say Hello to Janaka](https://www.linkedin.com/in/janakapremathilaka/)
 
 <!--
 **Janaka2/janaka2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
