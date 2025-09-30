@@ -1,5 +1,5 @@
 # Janaka Premathilaka
-Sr. Full-Stack Solution Engineer at Credit Suisse and Cognizant | Zug, Zug, Switzerland
+Sr. Full-Stack Solution Engineer at UBS / Cognizant | Zug, Zug, Switzerland
 
 ## Contact
 - Phone: +41 762248445 (Mobile)
