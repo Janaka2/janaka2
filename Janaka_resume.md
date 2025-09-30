@@ -26,7 +26,7 @@ Sr. Full-Stack Solution Engineer at Credit Suisse and Cognizant | Zug, Zug, Swit
 - IntelliJ IDEA Tricks to Boost Productivity for Java Devs
 
 ## Summary
-With over 18 years of experience in the IT industry, I offer a wealth of technical knowledge and a strong track record of delivering excellence. As a Senior Full-Stack Developer, I possess expertise in a wide range of technologies, including Java (8-11, 17), Spring (Boot, 5, MVC, Flux), Angular (7-8-14), React/Redux, and DevOps tools like Jenkins and Maven. I hold a Swiss Permit C for permanent residency and work authorization, and am open to relocation if needed.
+With over 21 years of experience in the IT industry, I offer a wealth of technical knowledge and a strong track record of delivering excellence. As a Senior Full-Stack Developer, I possess expertise in a wide range of technologies, including Java (8-11, 17), Spring (Boot, 5, MVC, Flux), Angular (7-8-14), React/Redux, and DevOps tools like Jenkins and Maven. I hold a Swiss Permit C for permanent residency and work authorization, and am open to relocation if needed.
 
 My skills cover backend development, front-end development, testing and QA, and DevOps. I have a strong focus on staying up-to-date with the latest technologies and Agile Methodologies. I am also well-versed in additional areas such as GraphQL, Machine Learning, Deep Learning, and Natural Language Processing.
 
