@@ -11,7 +11,7 @@ LinkedIn: https://www.linkedin.com/in/janakapremathilaka/ · GitHub: https://git
 Senior Java/Spring engineer with 21+ years of experience delivering secure, resilient enterprise platforms across banking, public sector, telecom, and e-commerce. Strong background in high-throughput backend systems, full-stack delivery, and modernization of legacy applications into cloud-native architectures. Recently focused on practical AI enablement with LLMs, RAG, LangChain/LlamaIndex, and workflow automation integrated with Java/Spring ecosystems.
 
 ## Core Competencies
-- Enterprise Java: Java 8–17, Spring Boot, Spring MVC/Data/Security, REST APIs, GraphQL
+- Enterprise Java: Java 8–21, Spring Boot, Spring MVC/Data/Security, REST APIs, GraphQL
 - Banking & Financial Systems: FX, master data, case management, regulatory/support workflows
 - Distributed Systems: Kafka, event-driven integration, microservices, performance tuning
 - Data & Persistence: Oracle, PL/SQL, Liquibase, SQL optimization
