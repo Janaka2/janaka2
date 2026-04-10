@@ -1,67 +1,80 @@
 # Janaka Premathilaka
-**Senior Full-Stack Java Engineer (Banking/FinTech) | AI Automation (LLM/RAG) | DevOps**
+**Senior Java Developer | Full-Stack Engineer | Banking Technology | LLM/RAG Automation**
 
-Zug, Switzerland  
+Zug 6300, Switzerland  
 +41 76 224 84 45 · janaka2@gmail.com  
-LinkedIn: https://www.linkedin.com/in/janakapremathilaka/ · GitHub: https://github.com/Janaka2
+LinkedIn: https://www.linkedin.com/in/janakapremathilaka/
 
 ---
 
-## Professional Summary
-Senior Java/Spring engineer with 21+ years of experience delivering secure, resilient enterprise platforms across banking, public sector, telecom, and e-commerce. Strong background in high-throughput backend systems, full-stack delivery, and modernization of legacy applications into cloud-native architectures. Recently focused on practical AI enablement with LLMs, RAG, LangChain/LlamaIndex, and workflow automation integrated with Java/Spring ecosystems.
+## Personal Details
+- Date of Birth: 15.02.1980
+- Nationality: Belgian (Swiss Permit C)
+- Availability: 2 months notice
+- On-Call (Pikett): Yes
 
-## Core Competencies
-- Enterprise Java: Java 8–21, Spring Boot, Spring MVC/Data/Security, REST APIs, GraphQL
-- Banking & Financial Systems: FX, master data, case management, regulatory/support workflows
-- Distributed Systems: Kafka, event-driven integration, microservices, performance tuning
-- Data & Persistence: Oracle, PL/SQL, Liquibase, SQL optimization
-- DevOps & Platform: Docker, Kubernetes/OpenShift, Jenkins, GitHub Actions, Helm, GitOps
-- Quality Engineering: JUnit, Mockito, Cucumber BDD, code quality automation
-- AI Engineering: RAG pipelines, prompt/inference optimization, local LLM experimentation
+## Professional Profile
+Senior Full-Stack Java Developer with 22+ years of experience engineering high-volume, low-latency distributed applications for mission-critical banking systems. Highly proficient in Java 11–17, Spring Boot, and cloud-native microservices architectures. Recently delivered practical LLM/RAG-driven automation in enterprise banking environments. Strong advocate of DevOps, TDD, code quality, and mentoring in Agile/SAFe teams.
 
 ## Professional Experience
-### UBS (via Cognizant) — Sr. Full-Stack Solution Engineer
-**Jan 2024 – Present · Zurich Area, Switzerland**
-- Built and evaluated AI-assisted prototypes (including local LLM workflows) for banking use cases.
-- Integrated AI proof-of-concepts with Spring Boot services and existing CI/CD pipelines.
-- Supported reliability, observability, and controlled rollout practices for AI-enabled services.
+### UBS / Cognizant — Senior Full-Stack Java Developer (Lead)
+**Zurich, Switzerland | 01.2024 – Present**
+- Took ownership of 6 enterprise applications during the Credit Suisse to UBS merger, maintaining stability and continuity.
+- Spearheaded a high-pressure application archiving initiative with full delivery ownership.
+- Engineered Linux scripts integrated with Oracle CLI workflows to extract and format multi-GB datasets with attachments for downstream feeds.
+- Implemented data-driven automation use cases with LLM and Agentic RAG approaches.
+- Mentored junior developers and promoted engineering standards and code quality.
+- Supported mission-critical production incidents and observability-driven application support.
 
-### Credit Suisse (via Cognizant) — Sr. Full-Stack Solution Engineer
-**May 2019 – Jan 2024 · Zurich, Switzerland**
-- Designed and maintained high-volume Java services for mission-critical platforms.
-- Contributed to FX backend engineering; improved responsiveness and execution performance.
-- Built and evolved Master Data Management (GBSS MDM) and data service components.
-- Implemented case-management capabilities, including workflow and streaming integrations.
-- Stack: Java 11–17, Spring Boot, Oracle, Kafka, Liquibase, React, GraphQL, OpenShift/K8s.
+### Credit Suisse / Cognizant — IT Solution Developer
+**Zurich, Switzerland | 05.2019 – 01.2024**
+- Owned end-to-end design, development, and deployment of a mission-critical Master Data Management (MDM) platform.
+- Delivered golden-source data preparation and feed integration for big-data search/reporting endpoints.
+- Established CI/CD pipelines and adopted Angular rapidly to deliver UI capabilities.
+- Spearheaded greenfield development for Client Lifecycle Management and Event Management.
+- Architected and delivered three scalable cloud-native applications using Spring Boot, React, and Oracle.
+- Engineered a low-latency Front Office FX trading platform (Java 11–17), improving responsiveness by 20%.
+- Applied multithreading and memory-management practices for high-volume transaction performance.
+- Built and maintained delivery pipelines with Kubernetes, Docker, Splunk, and Grafana.
+- Championed TDD with JUnit and Mockito.
 
-### UBS (via Cognizant) — Sr. Software Developer
-**Jan 2018 – May 2019 · Zurich, Switzerland**
-- Modernized 20+ application components (Java/Spring/Camel/Hibernate).
-- Implemented CI/CD automation with Jenkins; increased release quality and consistency.
-- Delivered REST services and schema-driven React UI components.
+### UBS / Cognizant — IT Solution Development Specialist
+**Zurich, Switzerland | 01.2018 – 05.2019**
+- Modernized 20+ legacy components into Spring Boot microservices.
+- Automated delivery pipelines in Jenkins, including static analysis and deployment workflows.
+- Strengthened quality through Cucumber BDD and pre-release verification practices.
 
-### European Commission (DIGIT) — Sr. Java/JEE Developer
-**Jun 2011 – Dec 2017 · Brussels, Belgium**
-- Delivered enterprise e-procurement and workflow solutions.
-- Implemented front-end and back-end features, test automation, and L3 support.
-- Worked across Java/J2EE, Spring/Hibernate, Angular, Oracle, WebLogic, and release tooling.
+### European Commission (DIGIT Division) — Senior Full-Stack Java Developer
+**Brussels, Belgium | 06.2011 – 01.2018**
+- Engineered and maintained the core e-procurement system over a 6.5-year tenure.
+- Developed scalable microservices and distributed integration patterns with Spring Integration.
+- Implemented robust JBPM workflows to streamline complex business processes.
+- Enforced high code quality via unit/integration testing and managed continuous releases with Jenkins.
 
-### Earlier Roles
-**2004 – 2011 · Belgium / Sri Lanka**
-- Senior Java/JEE consulting engagements in telecom, healthcare, and packaging domains.
-- Technical lead/developer in hotel reservation systems.
-- Banking software engineering for core business and operational systems.
+### Johnson & Johnson, Nokia Siemens, Union Bank of Colombo — Senior Java/JEE Consultant & Engineer
+**Belgium & Sri Lanka | 05.2004 – 06.2011**
+- Delivered enterprise Java/JEE systems in healthcare, telecom, and banking sectors.
+- Modernized architectures and integrated SOAP/REST services in Agile/Scrum teams.
+- Optimized Oracle/MySQL data-access and business application performance.
 
-## Education
-- BSc, Computer Science / Statistics / Mathematics — University of Sri Jayewardenepura
-- Unix/Linux Fundamentals, Networks & Systems Administration — University of Colombo
+## Technical Skills
+- **Languages:** Java (11–17), SQL, TypeScript, Python
+- **Architecture:** Microservices, Multi-threading, GraphQL, REST
+- **Frameworks:** Spring Boot, Hibernate, React, Angular
+- **DevOps & Cloud:** Kubernetes, Jenkins, Grafana, Docker
+- **Testing & Agile:** TDD, JUnit, Mockito, Jira, Scrum/SAFe
 
-## Certifications
-- Sun Certified: SCJP, SCBCD, SCEA1, SCWCD
+## Education & Certifications
+- BSc in Computer Science, Statistics, Mathematics (1999–2003) — University of Sri Jayewardenepura, Sri Lanka
 - Spring Certified Professional (in progress)
+- Sun Java Certifications: SCJP, SCBCD, SCEA1, SCWCD
+- AI & ChatGPT Completions (2023)
 
 ## Languages
-English (Full Professional), Sinhalese (Native), Dutch (Limited Working), French (Elementary), German (Elementary)
+- English: Full Professional (C1/C2)
+- German: Intermediate (B1)
+- French & Dutch: Basic Knowledge
+- Sinhalese: Native
 
-## Work Authorization
-Swiss Permit C (permanent residency and work authorization)
+## References
+Excellent references from UBS, Credit Suisse, and European Commission available upon request.
