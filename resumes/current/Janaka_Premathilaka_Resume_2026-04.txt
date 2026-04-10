@@ -1,0 +1,73 @@
+JANAKA PREMATHILAKA
+Senior Full-Stack Java Engineer (Banking/FinTech) | AI Automation (LLM/RAG) | DevOps
+
+Location: Zug, Switzerland
+Phone: +41 76 224 84 45
+Email: janaka2@gmail.com
+LinkedIn: https://www.linkedin.com/in/janakapremathilaka/
+GitHub: https://github.com/Janaka2
+
+PROFESSIONAL SUMMARY
+Senior Java/Spring engineer with 21+ years of experience delivering secure,
+resilient enterprise platforms across banking, public sector, telecom, and
+e-commerce. Strong background in high-throughput backend systems, full-stack
+delivery, and modernization of legacy applications into cloud-native
+architectures. Recently focused on practical AI enablement with LLMs, RAG,
+LangChain/LlamaIndex, and workflow automation integrated with Java/Spring
+ecosystems.
+
+CORE COMPETENCIES
+- Enterprise Java: Java 8–17, Spring Boot, Spring MVC/Data/Security, REST APIs, GraphQL
+- Banking & Financial Systems: FX, master data, case management, regulatory/support workflows
+- Distributed Systems: Kafka, event-driven integration, microservices, performance tuning
+- Data & Persistence: Oracle, PL/SQL, Liquibase, SQL optimization
+- DevOps & Platform: Docker, Kubernetes/OpenShift, Jenkins, GitHub Actions, Helm, GitOps
+- Quality Engineering: JUnit, Mockito, Cucumber BDD, code quality automation
+- AI Engineering: RAG pipelines, prompt/inference optimization, local LLM experimentation
+
+PROFESSIONAL EXPERIENCE
+UBS (via Cognizant) — Sr. Full-Stack Solution Engineer
+Jan 2024 – Present · Zurich Area, Switzerland
+- Built and evaluated AI-assisted prototypes (including local LLM workflows) for banking use cases.
+- Integrated AI proof-of-concepts with Spring Boot services and existing CI/CD pipelines.
+- Supported reliability, observability, and controlled rollout practices for AI-enabled services.
+
+Credit Suisse (via Cognizant) — Sr. Full-Stack Solution Engineer
+May 2019 – Jan 2024 · Zurich, Switzerland
+- Designed and maintained high-volume Java services for mission-critical platforms.
+- Contributed to FX backend engineering; improved responsiveness and execution performance.
+- Built and evolved Master Data Management (GBSS MDM) and data service components.
+- Implemented case-management capabilities, including workflow and streaming integrations.
+- Stack: Java 11–17, Spring Boot, Oracle, Kafka, Liquibase, React, GraphQL, OpenShift/K8s.
+
+UBS (via Cognizant) — Sr. Software Developer
+Jan 2018 – May 2019 · Zurich, Switzerland
+- Modernized 20+ application components (Java/Spring/Camel/Hibernate).
+- Implemented CI/CD automation with Jenkins; increased release quality and consistency.
+- Delivered REST services and schema-driven React UI components.
+
+European Commission (DIGIT) — Sr. Java/JEE Developer
+Jun 2011 – Dec 2017 · Brussels, Belgium
+- Delivered enterprise e-procurement and workflow solutions.
+- Implemented front-end and back-end features, test automation, and L3 support.
+- Worked across Java/J2EE, Spring/Hibernate, Angular, Oracle, WebLogic, and release tooling.
+
+Earlier Roles (2004 – 2011 · Belgium / Sri Lanka)
+- Senior Java/JEE consulting engagements in telecom, healthcare, and packaging domains.
+- Technical lead/developer in hotel reservation systems.
+- Banking software engineering for core business and operational systems.
+
+EDUCATION
+- BSc, Computer Science / Statistics / Mathematics — University of Sri Jayewardenepura
+- Unix/Linux Fundamentals, Networks & Systems Administration — University of Colombo
+
+CERTIFICATIONS
+- Sun Certified: SCJP, SCBCD, SCEA1, SCWCD
+- Spring Certified Professional (in progress)
+
+LANGUAGES
+English (Full Professional), Sinhalese (Native), Dutch (Limited Working),
+French (Elementary), German (Elementary)
+
+WORK AUTHORIZATION
+Swiss Permit C (permanent residency and work authorization)
