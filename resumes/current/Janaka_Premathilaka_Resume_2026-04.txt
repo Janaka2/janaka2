@@ -17,7 +17,7 @@ LangChain/LlamaIndex, and workflow automation integrated with Java/Spring
 ecosystems.
 
 CORE COMPETENCIES
-- Enterprise Java: Java 8–17, Spring Boot, Spring MVC/Data/Security, REST APIs, GraphQL
+- Enterprise Java: Java 8–21, Spring Boot, Spring MVC/Data/Security, REST APIs, GraphQL
 - Banking & Financial Systems: FX, master data, case management, regulatory/support workflows
 - Distributed Systems: Kafka, event-driven integration, microservices, performance tuning
 - Data & Persistence: Oracle, PL/SQL, Liquibase, SQL optimization
