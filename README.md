@@ -16,6 +16,6 @@ The interesting work right now is the bridge: getting LLM-powered automation to 
 
 English (C1/C2) · German (B1, improving) · Sinhalese (native) · Dutch & French (basic)
 
-📫 [janaka2@gmail.com](mailto:janaka2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/janakapremathilaka/) · [Blog](https://javawithme.wordpress.com/) · 📄 [Latest CV](./resumes/current/Janaka_Premathilaka_CV_2026.pdf)
+📫 [janaka2@gmail.com](mailto:janaka2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/janakapremathilaka/) · [Blog](https://javawithme.wordpress.com/) · 📄 [Latest CV -EN](https://janaka2.github.io/resume/partials/Janaka_Premathilaka_CV_2026.pdf) 📄 [Latest CV -DE](https://janaka2.github.io/resume/partials/Janaka_Premathilaka_Lebenslauf_2026_DE.pdf)
 
 🍳 Off the keyboard: mindfulness practitioner and culinary enthusiast — always experimenting with new flavors.
