@@ -1,36 +1,21 @@
-### 👋 Hi there 🌱
-I'm [Janaka](https://janaka.me/), a Senior Java Developer with 21+ years of hands-on experience in enterprise software engineering — now actively applying my skills to modern AI-powered solutions. I work with Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Context-Aware Generation (CAG), LangChain, LlamaIndex, and have integrated these with Java/Spring Boot and automation tools like Openat Agebt SDK, AutoGen and GitHub Actions, etc. I'm currently based in Zug, Switzerland and hold a Swiss Permit C for permanent residency and work authorization.
+### 👋 Hi, I'm Janaka
 
-🔧 My expertise includes a wide range of technologies like Java, Spring, Angular, React/Redux, and DevOps tools such as Jenkins and Maven. I have a strong focus on backend and front-end development, testing and QA, and DevOps, always staying up-to-date with the latest technologies and Agile methodologies. I'm also well-versed in additional areas such as GraphQL, Machine Learning, Deep Learning, and Natural Language Processing.
+I write Java for banks. Have done for 22+ years — Union Bank of Colombo, the European Commission's e-procurement systems in Brussels, then UBS, Credit Suisse, and UBS again after the merger. Mission-critical, regulated, audited, and not allowed to fall over.
 
-🌐 I am fluent in English and Sinhalese, with working knowledge of Dutch and elementary knowledge of French. I have a strong track record of delivering excellence across various industries, including finance, telecommunications, e-commerce, and government.
+**Now:** Senior Full-Stack Solution Engineer (Lead) at UBS (via Cognizant), based in Zug, Switzerland 🇨🇭 — Swiss Permit C, Belgian national.
 
-🤝 I'm committed to working closely with my colleagues to develop innovative solutions that drive success. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/janakapremathilaka/), or check out my technical blog at [javawithme.wordpress.com](https://javawithme.wordpress.com/drive/).
+### 🔧 What I do
 
+- **Banking-grade Java engineering** — Java 11–17, Spring Boot, microservices, Kafka, Oracle, Kubernetes/OpenShift, React & Angular front-ends
+- **AI in regulated environments** — LLMs, RAG/CAG patterns and agentic automation with LangChain, LlamaIndex, n8n, the OpenAI Agents SDK and AutoGen; local Llama 3 inference for data that cannot leave the bank
+- **Ownership** — on-call (Pikett), production incidents, audit-grade deliveries, and mentoring junior engineers
 
-🌟 Fun fact: I'm certified in Life Mastery, Mental Health First Aid Skills, Goal Setting, Emotional Intelligence, and IntelliJ IDEA tricks for Java developers.
-I'm a certified practitioner of Mindfulness-Based Stress Reduction, which helps me stay focused and balanced in my work and personal life.
-I'm a culinary enthusiast, always eager to experiment with new flavors and techniques in the kitchen. 💡
+The interesting work right now is the bridge: getting LLM-powered automation to pass a risk review and still work on Monday morning, integrated with Java systems that have been running for 20 years. 👇 My pinned repositories below are experiments in exactly that space.
 
-💼 Currently working at Credit Suisse and Cognizant as a Sr. Full-Stack Solution Engineer.
+### 🌐 Languages & contact
 
-📫 Feel free to reach out to me at janaka2@gmail.com , on [LinkedIn](https://www.linkedin.com/in/janakapremathilaka/) or give me a call at +41 762248445. 💌 🚀 [Latest Resume 🌱](./resumes/current/Janaka_Premathilaka_Resume_2026-04.md)
+English (C1/C2) · German (B1, improving) · Sinhalese (native) · Dutch & French (basic)
 
-# 💬[Say Hello to Janaka](https://www.linkedin.com/in/janakapremathilaka/)
+📫 [janaka2@gmail.com](mailto:janaka2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/janakapremathilaka/) · [Blog](https://javawithme.wordpress.com/) · 📄 [Latest CV](./resumes/current/Janaka_Premathilaka_CV_2026.pdf)
 
-<!--
-**Janaka2/janaka2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-where I build my CV
-https://www.overleaf.com/project/641f375b31a25f2d0509b991
--->
+🍳 Off the keyboard: mindfulness practitioner and culinary enthusiast — always experimenting with new flavors.
