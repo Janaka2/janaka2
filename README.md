@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Janaka
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=janaka2.visitor-badge)
 I write Java for banks. Have done for 22+ years — Union Bank of Colombo, the European Commission's e-procurement systems in Brussels, then UBS, Credit Suisse, and UBS again after the merger. Mission-critical, regulated, audited, and not allowed to fall over.
 
 **Now:** Senior Full-Stack Solution Engineer (Lead) at UBS (via Cognizant), based in Zug, Switzerland 🇨🇭 — Swiss Permit C, Belgian national.
