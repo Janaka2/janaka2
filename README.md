@@ -7,7 +7,7 @@ I write Java for banks. Have done for 22+ years — Union Bank of Colombo, the E
 
 ### 🔧 What I do
 
-- **Banking-grade Java engineering** — Java 11–17, Spring Boot, microservices, Kafka, Oracle, Kubernetes/OpenShift, React & Angular front-ends
+- **Banking-grade Java engineering** — Java 11–25, Spring Boot, microservices, Kafka, Oracle, Kubernetes/OpenShift, React & Angular front-ends
 - **AI in regulated environments** — LLMs, RAG/CAG patterns and agentic automation with LangChain, LlamaIndex, n8n, the OpenAI Agents SDK and AutoGen; local Llama 3 inference for data that cannot leave the bank
 - **Ownership** — on-call (Pikett), production incidents, audit-grade deliveries, and mentoring junior engineers
 
