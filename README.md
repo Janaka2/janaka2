@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=janaka2.visitor-badge)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=janaka2.visitor-badge) since 24th of Sep 2026
 ### 👋 Hi, I'm Janaka
 
 I write Java for banks. Have done for 22+ years — Union Bank of Colombo, the European Commission's e-procurement systems in Brussels, then UBS, Credit Suisse, and UBS again after the merger. Mission-critical, regulated, audited, and not allowed to fall over.
